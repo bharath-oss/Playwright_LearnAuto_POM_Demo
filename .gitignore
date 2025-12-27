@@ -10,8 +10,5 @@ allure-results
 OrangeHRM
 ecomm.feature
 testcontent
-tests/.Basic
-tests/.examaple
-tests/.OH_Login
-tests/.playwright
-tests/.praticetestautomation
+.github
+Help.txt
