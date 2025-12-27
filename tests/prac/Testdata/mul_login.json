@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "username":"bhb_Chrome",
+        "password":"***"
+    },
+    {
+        "id":2,
+        "username":"bhb_Edge",
+        "password":"***"
+    },
+    {
+        "id":3,
+        "username":"bhb_safari",
+        "password":"***"
+    }
+]

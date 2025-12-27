@@ -1,0 +1,11 @@
+[
+    {
+        "name":"bhat",
+        "username":"bhb@gmail.com",
+        "password":"bhb",
+        "Intrests":["TestNG","Selenium","Cypress"],
+        "Gender":"Female",
+        "State":"Karnataka",
+        "Hobbies":["Playing","Dancing","Swimming"]
+    }
+]

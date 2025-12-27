@@ -1,0 +1,15 @@
+
+
+npx playwright test Basic.spec.js --project=chromium --headed
+
+//falkiness
+1.cause when api are not where of dependent api's. 
+eg: if we update an row suppose from rat-->rabbit, 
+api resposnse don't know what is rat and what is rabbit.
+in this case just insert a expect assertion so that it will get pased.
+
+2.cause when dom page is taking much time then playwright expected time.
+use page.slower() so that it will slow the execution 3 tmies lower;
+
+3.locators playwirhgt does suggest to nested css and dynmic xpaths in this case we get flakiness.
+use getbyRole like this selectors and u won;t face the issue.
